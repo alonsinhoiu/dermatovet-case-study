@@ -6,6 +6,8 @@ DermatoVet is a professional website and automated appointment-request workflow 
 
 🌐 [Visit DermatoVet](https://dermatovet.org)
 
+![DermatoVet veterinary dermatology website](01_dermatovet_cover.png)
+
 ## The problem
 
 Managing appointment requests manually can require repeated messages, copying information between tools, checking availability, and creating calendar events individually. This takes time and increases the possibility of missed or disorganized requests.
@@ -13,6 +15,8 @@ Managing appointment requests manually can require repeated messages, copying in
 ## The solution
 
 I developed the public website and connected its appointment form to an automated workflow. Requests are recorded and communicated to the veterinary professional, who can review availability before confirming an appointment. Once confirmed, the corresponding event is created in Google Calendar.
+
+![DermatoVet client appointment journey](02_client_journey.png)
 
 ## Workflow
 
@@ -32,12 +36,16 @@ I developed the public website and connected its appointment form to an automate
 - Google Calendar event creation after confirmation
 - Ongoing maintenance and improvements
 
+![DermatoVet core website and appointment features](03_core_features.png)
+
 ## Integrations
 
 - Online forms
 - Email notifications
 - Spreadsheet-based workflow management
 - Google Calendar
+
+![DermatoVet automated appointment workflow](04_automation_workflow.png)
 
 ## My role
 
@@ -54,7 +62,8 @@ I worked directly on the solution from planning through delivery, including:
 
 The workflow centralizes appointment requests, reduces repetitive administrative steps, and gives the veterinary professional a clearer process for reviewing and organizing appointments.
 
+![DermatoVet business impact](05_business_impact.png)
+
 ## Privacy
 
 This repository is a public case study. It does not contain production source code, client records, appointment information, email addresses, credentials, spreadsheet data, or private automation configurations.
-
